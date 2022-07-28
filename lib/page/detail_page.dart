@@ -47,7 +47,7 @@ class DetailPlayer extends StatelessWidget {
               ),
               TextFormField(
                 autocorrect: false,
-                decoration: InputDecoration(labelText: "Posisi"),
+                decoration: InputDecoration(labelText: "Posisis"),
                 textInputAction: TextInputAction.next,
                 controller: positionController,
               ),
