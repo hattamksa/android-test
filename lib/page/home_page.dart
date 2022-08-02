@@ -24,7 +24,7 @@ class homePage extends StatelessWidget {
         ],
       ),
       body: (allPlayerProvider.jumlahPlayer == 0)
-          ? Text("kosong")
+          ? Text("kosongd")
           : ListView.builder(
               itemCount: allPlayerProvider.jumlahPlayer,
               itemBuilder: (context, index) {
