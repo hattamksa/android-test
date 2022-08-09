@@ -19,7 +19,7 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         artifacts: "build/app/outputs/apk/debug/app-arm64-v8a-debug.apk"
-        tag: v1.06
+        tag: v1.07
         token: ${{ secrets.TOKEN }}
     - name: Upload Artifact To Firebase App Distribution
       uses: wzieba/Firebase-Distribution-Github-Action@v1
