@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163656794760",
+    "project_id": "testing-android-f590a",
+    "storage_bucket": "testing-android-f590a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163656794760:android:c0a8d07bcab1b95733d53d",
+        "android_client_info": {
+          "package_name": "com.kskjt.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163656794760-vii84lmfbogaorru1qtlvhpfvaa8vojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlP7fc8Jlj9FSVWA2sSDdFYJIu5mmCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163656794760-vii84lmfbogaorru1qtlvhpfvaa8vojv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
